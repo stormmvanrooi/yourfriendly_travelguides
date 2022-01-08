@@ -1,0 +1,80 @@
+window.theme = {
+    accent:"#80FCFF",
+    accent_negative:"#ff2c6d",
+    accent_positive:"#33ffe6",
+    background_content:"rgb(48,55,89)",
+    background_page:"#161D33",
+    border:"#525F89",
+    breakpoint_font:"1200px",
+    breakpoint_stack_blocks:"700px",
+    card_border:{
+        width:"0px 0px 0px 0px",
+        style:"solid",
+        color:"#525F89",
+        radius:"0px"
+    },
+    card_background_color:"rgb(48,55,89)",
+    card_box_shadow:"0px 1px 3px rgba(0,0,0,0.12), 0px 1px 2px rgba(0,0,0,0.24)",
+    card_margin:"15px",
+    card_padding:"5px",
+    card_outline:{
+        width:"0px",
+        style:"solid",
+        color:"#525F89"
+    },
+    card_header_border:{
+        width:"0px 0px 1px 0px",
+        style:"solid",
+        color:"#525F89",
+        radius:"0px"
+    },
+    card_header_background_color:"rgb(48,55,89)",
+    card_header_box_shadow:"0px 0px 0px rgba(0,0,0,0)",
+    card_header_margin:"0px",
+    card_header_padding:"10px",
+    colorway:[
+        "#b3e2cd",
+        "#fdcdac",
+        "#cbd5e8",
+        "#f4cae4",
+        "#e6f5c9",
+        "#fff2ae",
+        "#f1e2cc",
+        "#cccccc"
+    ],
+    colorscale:[
+        "#80fcff",
+        "#72e6e9",
+        "#63d1d4",
+        "#55bcbf",
+        "#48a7ab",
+        "#3a9397",
+        "#2d7f84",
+        "#1f6c71",
+        "#10595e",
+        "#00474c"
+    ],
+    font_family:"Arimo",
+    font_size:"17px",
+    font_size_smaller_screen:"15px",
+    font_family_header:"Lora",
+    font_size_header:"24px",
+    font_family_headings:"Lora",
+    font_headings_size:null,
+    header_border:{
+        width:"0px 0px 0px 0px",
+        style:"solid",
+        color:"#525F89",
+        radius:"0px"
+    },
+    header_background_color:"rgb(48,55,89)",
+    header_box_shadow:"0px 1px 3px rgba(0,0,0,0.12), 0px 1px 2px rgba(0,0,0,0.24)",
+    header_margin:"0px 0px 15px 0px",
+    header_padding:"0px",
+    text:"rgb(217,239,255)",
+    report_font_family:"Computer Modern",
+    report_font_size:"12px",
+    report_background_page:"white",
+    report_background_content:"#FAFBFC",
+    report_text:"black"
+ }
