@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Arthouse Hotel New York City",
+        "Address": "2178 Broadway at West 77th Street, New York City, NY 10024-6647",
+        "Latitude": 40.782166,
+        "Longitude": -73.98033,
+        "Rating": "4.0"
+    }, {
+        "Name": "Distrikt Hotel New York City",
+        "Address": "342 West 40th Street, New York City, NY 10018-1404",
+        "Latitude": 40.756653,
+        "Longitude": -73.9926,
+        "Rating": "4.5"
+    }, {
+        "Name": "Heritage Hotel New York City",
+        "Address": "18 W 25th St at 5th Avenue, New York City, NY 10010-2703",
+        "Latitude": 40.74333,
+        "Longitude": -73.99004,
+        "Rating": "3.5"
+    }, {
+        "Name": "The Ludlow New York City",
+        "Address": "180 Ludlow St, New York City, NY 10002-1514",
+        "Latitude": 40.7218,
+        "Longitude": -73.98722,
+        "Rating": "4.5"
+    }
+]
