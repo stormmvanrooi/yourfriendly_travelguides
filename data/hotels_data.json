@@ -1,0 +1,382 @@
+[
+    {
+        "name": "Riu Plaza New York Times Square",
+        "location": [
+            40.76017910501307, -73.98802929364761
+        ],
+        "address": "305 W 46th St New York NY 10036",
+        "distance": 5478,
+        "category": "Hotel"
+    },
+    {
+        "name": "Warwick New York",
+        "location": [
+            40.7624022, -73.9782725
+        ],
+        "address": "65 W 54th St New York NY 10019",
+        "distance": 5986,
+        "category": "Lodging"
+    },
+    {
+        "name": "The Belvedere Hotel",
+        "location": [
+            40.76159900821748, -73.9880682833074
+        ],
+        "address": "319 W 48th St New York NY 10036",
+        "distance": 5629,
+        "category": "Lodging"
+    },
+    {
+        "name": "Hotel Edison",
+        "location": [
+            40.75966639038906, -73.98608770066558
+        ],
+        "address": "228 W 47th St New York NY 10036",
+        "distance": 5471,
+        "category": "Hotel"
+    }, {
+        "name": "Park Central New York",
+        "location": [
+            40.76481, -73.9814
+        ],
+        "address": "870 7th Ave New York NY 10019",
+        "distance": 6139,
+        "category": "Hotel"
+    }, {
+        "name": "Hotel 50 Bowery NYC",
+        "location": [
+            40.7159364, -73.9967894
+        ],
+        "address": "50 Bowery New York NY 10013",
+        "distance": 850,
+        "category": "Hotel"
+    }, {
+        "name": "Walker Hotel Tribeca F",
+        "location": [
+            40.718481238800585, -74.00246858596802
+        ],
+        "address": "77 Walker St New York NY 10013",
+        "distance": 697,
+        "category": "Lodging"
+    }, {
+        "name": "Wythe Hotel",
+        "location": [
+            40.7218872714497, -73.95799353364396
+        ],
+        "address": "80 Wythe Ave Brooklyn NY 11249",
+        "distance": 4167,
+        "category": "Hotel"
+    }, {
+        "name": "Shelburne Hotel & Suites by Affinia",
+        "location": [
+            40.7483169, -73.9781387
+        ],
+        "address": "303 Lexington Ave New York NY 10016",
+        "distance": 4591,
+        "category": "Resort"
+    }, {
+        "name": "Hotel Indigo Lower East Side New York, an IHG Hotel",
+        "location": [
+            40.721762215432754, -73.9880921645
+        ],
+        "address": "171 Ludlow St New York NY 10002",
+        "distance": 1807,
+        "category": "Hotel"
+    }, {
+        "name": "Gild Hall, A Thompson Hotel",
+        "location": [
+            40.7078871, -74.0071031
+        ],
+        "address": "15 Gold St New York NY 10038",
+        "distance": 553,
+        "category": "Lodging"
+    }, {
+        "name": "citizenM New York Times Square",
+        "location": [
+            40.761691026346256, -73.98495316332877
+        ],
+        "address": "218 W 50th St New York NY 10019",
+        "distance": 5714,
+        "category": "Hotel"
+    }, {
+        "name": "Ace Hotel New York",
+        "location": [
+            40.74585807964396, -73.98812139191362
+        ],
+        "address": "20 W 29th St New York NY 10001",
+        "distance": 3970,
+        "category": "Hotel"
+    }, {
+        "name": "The Manhattan at Times Square Hotel",
+        "location": [
+            40.76208099999999, -73.9828534
+        ],
+        "address": "790 7th Ave New York NY 10019",
+        "distance": 5812,
+        "category": "Lodging"
+    }, {
+        "name": "Fifty Hotel & Suites by Affinia",
+        "location": [
+            40.7560686, -73.9710311
+        ],
+        "address": "155 E 50th St New York NY 10022",
+        "distance": 5638,
+        "category": "Hotel"
+    }, {
+        "name": "Walker Hotel Greenwich Village",
+        "location": [
+            40.73618, -73.9966
+        ],
+        "address": "52 W 13th St New York NY 10011",
+        "distance": 2716,
+        "category": "Hotel"
+    }, {
+        "name": "The Plaza Hotel",
+        "location": [
+            40.764446023339964, -73.97414488954924
+        ],
+        "address": "Fifth Avenue at Central Park South, New York City, NY 10019, United States of America New York NY 10019",
+        "distance": 6334,
+        "category": "Hotel"
+    }, {
+        "name": "Hotel NH Collection New York Madison Avenue",
+        "location": [
+            40.750087, -73.980655
+        ],
+        "address": "22 E 38th St New York NY 10016",
+        "distance": 4660,
+        "category": "Hotel"
+    }, {
+        "name": "Aliz Hotel Times Square",
+        "location": [
+            40.756123, -73.99174099999999
+        ],
+        "address": "310 W 40th St New York NY 10018",
+        "distance": 4961,
+        "category": "Lodging"
+    }, {
+        "name": "The Beekman, A Thompson Hotel",
+        "location": [
+            40.7111725, -74.0067017
+        ],
+        "address": "123 Nassau St New York NY 10038",
+        "distance": 190,
+        "category": "Resort"
+    }, {
+        "name": "AC Hotel by Marriott New York Downtown",
+        "location": [
+            40.70579873543364, -74.00517225265503
+        ],
+        "address": "151 Maiden Ln New York NY 10038",
+        "distance": 781,
+        "category": "Hotel"
+    }, {
+        "name": "Public",
+        "location": [
+            40.72302, -73.99198
+        ],
+        "address": "215 Chrystie St New York NY 10002",
+        "distance": 1638,
+        "category": "American Restaurant"
+    }, {
+        "name": "Sheraton Brooklyn New York Hotel",
+        "location": [
+            40.6915504, -73.984484
+        ],
+        "address": "228 Duffield St Brooklyn NY 11201",
+        "distance": 2976,
+        "category": "Hotel"
+    }, {
+        "name": "The Leon Hotel",
+        "location": [
+            40.715993699208575, -73.99517068751025
+        ],
+        "address": "125 Canal St New York NY 10002",
+        "distance": 978,
+        "category": "Hotel"
+    }, {
+        "name": "1 Hotel Central Park",
+        "location": [
+            40.765116497794985, -73.976485256087
+        ],
+        "address": "1414 Avenue of the Americas New York NY 10019",
+        "distance": 6322,
+        "category": "Hotel"
+    }, {
+        "name": "Heritage Hotel New York City",
+        "location": [
+            40.74336698743563, -73.99010556205502
+        ],
+        "address": "18 W 25th St New York NY 10010",
+        "distance": 3650,
+        "category": "Lodging"
+    }, {
+        "name": "The Greenwich Hotel",
+        "location": [
+            40.71987580077512, -74.00994926691055
+        ],
+        "address": "377 Greenwich St New York NY 10013",
+        "distance": 853,
+        "category": "Hotel"
+    }, {
+        "name": "Soho Grand Hotel",
+        "location": [
+            40.72197368736919, -74.0044641494751
+        ],
+        "address": "310 W Broadway New York NY 10013",
+        "distance": 1027,
+        "category": "Hotel"
+    }, {
+        "name": "The Pod Hotel 39",
+        "location": [
+            40.749334153452835, -73.97660833694302
+        ],
+        "address": "145 E 39th St New York NY 10016",
+        "distance": 4754,
+        "category": "Hotel"
+    }, {
+        "name": "New Crosby Street Hotel",
+        "location": [
+            40.72301050973039, -73.99745413751765
+        ],
+        "address": "79 Crosby St New York NY 10012",
+        "distance": 1343,
+        "category": "Hotel"
+    }, {
+        "name": "Four Seasons Hotel New York Downtown",
+        "location": [
+            40.71261246501983, -74.00938032087628
+        ],
+        "address": "27 Barclay St New York NY 10007",
+        "distance": 285,
+        "category": "Hotel"
+    }, {
+        "name": "The High Line Hotel",
+        "location": [
+            40.74590361608837, -74.00505423545837
+        ],
+        "address": "180 10th Ave New York NY 10011",
+        "distance": 3679,
+        "category": "Hotel"
+    }, {
+        "name": "Kimpton Hotel Eventi",
+        "location": [
+            40.747224, -73.98996
+        ],
+        "address": "851 Avenue of the Americas New York NY 10001",
+        "distance": 4056,
+        "category": "Resort"
+    }, {
+        "name": "Ravel Hotel",
+        "location": [
+            40.753989, -73.949244
+        ],
+        "address": "8-08 Queens Plz Long Island City NY 11101",
+        "distance": 6617,
+        "category": "Lodging"
+    }, {
+        "name": "Trump International Hotel & Tower New York",
+        "location": [
+            40.76932505147269, -73.98156747607482
+        ],
+        "address": "1 Central Park W New York NY 10023",
+        "distance": 6609,
+        "category": "Lodging"
+    }, {
+        "name": "The Bowery Hotel",
+        "location": [
+            40.72614466252136, -73.99162708611642
+        ],
+        "address": "335 Bowery New York NY 10003",
+        "distance": 1914,
+        "category": "Hotel"
+    }, {
+        "name": "Equinox Hotel",
+        "location": [
+            40.7546506, -74.0022128
+        ],
+        "address": "33 Hudson New York NY 10001",
+        "distance": 4661,
+        "category": "Hotel"
+    }, {
+        "name": "SoHo Grand Hotel Club Room",
+        "location": [
+            40.721958007618014, -74.00425217359967
+        ],
+        "address": "310 W Broadway New York NY 10013",
+        "distance": 1028,
+        "category": "Cocktail Bar"
+    }, {
+        "name": "Kimpton Muse Hotel",
+        "location": [
+            40.757808, -73.983764
+        ],
+        "address": "130 W 46th St New York NY 10036",
+        "distance": 5340,
+        "category": "Resort"
+    }, {
+        "name": "The Ludlow Hotel",
+        "location": [
+            40.7218567, -73.9872039
+        ],
+        "address": "180 Ludlow St New York NY 10002",
+        "distance": 1875,
+        "category": "Hotel"
+    }, {
+        "name": "Lobby Bar at Ace Hotel New York",
+        "location": [
+            40.74583046684671, -73.9881650005538
+        ],
+        "address": "1186 Broadway New York NY 10001",
+        "distance": 3965,
+        "category": "Hotel Bar"
+    }, {
+        "name": "M Social Hotel Times Square New York",
+        "location": [
+            40.76274, -73.983601
+        ],
+        "address": "226 W 52nd St New York NY 10019",
+        "distance": 5861,
+        "category": "Hotel"
+    }, {
+        "name": "Gardens Suites Hotel by Affinia",
+        "location": [
+            40.76438275010004, -73.96312594413757
+        ],
+        "address": "215 E 64th St New York NY 10065",
+        "distance": 6774,
+        "category": "Hotel"
+    }, {
+        "name": "Hotel Chantelle",
+        "location": [
+            40.71848249951786, -73.98905576383794
+        ],
+        "address": "92 Ludlow St New York NY 10002",
+        "distance": 1560,
+        "category": "Restaurant"
+    }, {
+        "name": "New York Dog Spa & Hotel",
+        "location": [
+            40.743709466213886, -73.99053168978655
+        ],
+        "address": "32 W 25th St New York NY 10010",
+        "distance": 3673,
+        "category": "Pet Grooming Service"
+    }, {
+        "name": "The Mercer",
+        "location": [
+            40.724827682731956, -73.99855256080627
+        ],
+        "address": "147 Mercer St New York NY 10012",
+        "distance": 1476,
+        "category": "Hotel"
+    }, {
+        "name": "The Pod Hotel 51",
+        "location": [
+            40.75583211988071, -73.96903283684541
+        ],
+        "address": "230 E 51st St New York NY 10022",
+        "distance": 5705,
+        "category": "Hotel"
+    }
+]
