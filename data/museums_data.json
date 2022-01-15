@@ -1,0 +1,398 @@
+[
+    {
+        "name": "National September 11 Memorial",
+        "location": [
+            40.71167877284775, -74.01328325271606
+        ],
+        "address": "180 Greenwich St New York NY 10007",
+        "distance": 626,
+        "category": "Memorial Site"
+    },
+    {
+        "name": "Metropolitan Museum of Art",
+        "location": [
+            40.77972902126812, -73.96341562271118
+        ],
+        "address": "1000 5th Ave New York NY 10028",
+        "distance": 8256,
+        "category": "Museum"
+    },
+    {
+        "name": "Museum of Modern Art (MoMA)",
+        "location": [
+            40.761433, -73.977417
+        ],
+        "address": "11 W 53rd St New York NY 10019",
+        "distance": 5916,
+        "category": "Art Museum"
+    },
+    {
+        "name": "MTA Subway - Eastern Parkway/Brooklyn Museum",
+        "location": [
+            40.67203409535148, -73.96418226222615
+        ],
+        "address": "Eastern Pkwy Brooklyn NY 11238",
+        "distance": 5739,
+        "category": "Travel and Transportation"
+    }, {
+        "name": "Ellis Island Immigration Museum",
+        "location": [
+            40.69902780225888, -74.03959860179998
+        ],
+        "address": "1 Audrey Zapp Dr Jersey City NJ 07305",
+        "distance": 3217,
+        "category": "History Museum"
+    }, {
+        "name": "81st Street \u2013 Museum of Natural History",
+        "location": [
+            40.7820428259257, -73.97196681880872
+        ],
+        "address": "W 81ST St New York NY 10024",
+        "distance": 8210,
+        "category": "Metro Station"
+    }, {
+        "name": "Brooklyn Museum",
+        "location": [
+            40.67100399398882, -73.9634370803833
+        ],
+        "address": "200 Eastern Pkwy Brooklyn NY 11238",
+        "distance": 5868,
+        "category": "Museum"
+    }, {
+        "name": "American Museum of Natural History",
+        "location": [
+            40.781216, -73.974018
+        ],
+        "address": "Central Park New York NY 10024",
+        "distance": 8065,
+        "category": "Museum"
+    }, {
+        "name": "Whitney Museum of American Art",
+        "location": [
+            40.739505596373306, -74.00886093701054
+        ],
+        "address": "99 Gansevoort St New York NY 10014",
+        "distance": 2977,
+        "category": "Museum"
+    }, {
+        "name": "Museum of Sex",
+        "location": [
+            40.744095094862885, -73.98762805650948
+        ],
+        "address": "233 5th Ave New York NY 10016",
+        "distance": 3806,
+        "category": "Museum"
+    }, {
+        "name": "Intrepid Sea, Air & Space Museum",
+        "location": [
+            40.764384, -73.999708
+        ],
+        "address": "12TH Ave New York NY 10036",
+        "distance": 5756,
+        "category": "History Museum"
+    }, {
+        "name": "Brooklyn Children's Museum",
+        "location": [
+            40.67481362139854, -73.94425275269916
+        ],
+        "address": "145 Brooklyn Ave New York NY 11213",
+        "distance": 6699,
+        "category": "Art Museum"
+    }, {
+        "name": "National Museum of Mathematics",
+        "location": [
+            40.74317245416424, -73.98741602897643
+        ],
+        "address": "11 E 26th St New York NY 10010",
+        "distance": 3720,
+        "category": "Science Museum"
+    }, {
+        "name": "New York Transit Museum",
+        "location": [
+            40.69046927989812, -73.98996267064952
+        ],
+        "address": "Boerum Pl Brooklyn NY 11201",
+        "distance": 2825,
+        "category": "History Museum"
+    }, {
+        "name": "Tenement Museum",
+        "location": [
+            40.718956076914964, -73.98988325614155
+        ],
+        "address": "103 Orchard St New York NY 10002",
+        "distance": 1520,
+        "category": "Museum"
+    }, {
+        "name": "American Museum of Natural History Museum Shop",
+        "location": [
+            40.78097328556943, -73.97302831773911
+        ],
+        "address": "200 Central Park W New York NY 10024",
+        "distance": 8068,
+        "category": "Souvenir Store"
+    }, {
+        "name": "Museum Of Illu",
+        "location": [
+            40.7397002, -74.0029843
+        ],
+        "address": "77 8th Ave New York NY 10014",
+        "distance": 3000,
+        "category": "Museum"
+    }, {
+        "name": "Tesla Supercharger",
+        "location": [
+            40.670043, -73.962914
+        ],
+        "address": "878 Washington Avenue New York NY 11225",
+        "distance": 5979,
+        "category": "Electric Vehicle Charging Station"
+    }, {
+        "name": "Museum of Chinese in America",
+        "location": [
+            40.71936148321417, -73.99908632040024
+        ],
+        "address": "215 Centre St New York NY 10013",
+        "distance": 933,
+        "category": "History Museum"
+    }, {
+        "name": "The Morgan Library and Museum",
+        "location": [
+            40.74921, -73.98153
+        ],
+        "address": "225 Madison Ave New York NY 10016",
+        "distance": 4540,
+        "category": "Museum"
+    }, {
+        "name": "Solomon R Guggenheim Museum",
+        "location": [
+            40.78318, -73.95881
+        ],
+        "address": "1071 5th Ave New York NY 10128",
+        "distance": 8772,
+        "category": "Museum"
+    }, {
+        "name": "Brooklyn Museum Gift Shop",
+        "location": [
+            40.67137123506541, -73.9636683743169
+        ],
+        "address": "200 Eastern Pkwy Brooklyn NY 11238",
+        "distance": 5823,
+        "category": "Gift Store"
+    }, {
+        "name": "New-York Historical Society Museum and Library",
+        "location": [
+            40.779270842352574, -73.97390455445249
+        ],
+        "address": "170 Central Park W New York NY 10024",
+        "distance": 7865,
+        "category": "Museum"
+    }, {
+        "name": "Bonsai Museum",
+        "location": [
+            40.66632188188055, -73.9619959045316
+        ],
+        "address": "990 Washington Ave Brooklyn NY 11225",
+        "distance": 6357,
+        "category": "Museum"
+    }, {
+        "name": "The Skyscraper Museum",
+        "location": [
+            40.70588628714804, -74.01783076234406
+        ],
+        "address": "39 Battery Pl New York NY 10280",
+        "distance": 1258,
+        "category": "History Museum"
+    }, {
+        "name": "The Noguchi Museum",
+        "location": [
+            40.76673515827998, -73.93844471179574
+        ],
+        "address": "9-01 33rd Rd Long Island City NY 11106",
+        "distance": 8262,
+        "category": "Museum"
+    }, {
+        "name": "Submarine Growler at the Intrepid Museum",
+        "location": [
+            40.764821060862715, -73.99976371397774
+        ],
+        "address": "Pier 86 New York NY 10036",
+        "distance": 5804,
+        "category": "Museum"
+    }, {
+        "name": "South Street Seaport Museum",
+        "location": [
+            40.70720445017337, -74.00372874071756
+        ],
+        "address": "12 Fulton St New York NY 10038",
+        "distance": 650,
+        "category": "History Museum"
+    }, {
+        "name": "Merchant's House Museum",
+        "location": [
+            40.72757407535845, -73.99235725019763
+        ],
+        "address": "29 E 4th St New York NY 10003",
+        "distance": 2003,
+        "category": "History Museum"
+    }, {
+        "name": "New Museum",
+        "location": [
+            40.722353820596624, -73.99302452802658
+        ],
+        "address": "235 Bowery New York NY 10002",
+        "distance": 1523,
+        "category": "Art Museum"
+    }, {
+        "name": "Leslie-Lohman Museum of Gay and Lesbian Art",
+        "location": [
+            40.72177971162039, -74.00316977960017
+        ],
+        "address": "26 Wooster St New York NY 10013",
+        "distance": 1025,
+        "category": "Art Museum"
+    }, {
+        "name": "Rubin Museum of Art",
+        "location": [
+            40.74010992418915, -73.99780690670013
+        ],
+        "address": "150 W 17th St New York NY 10011",
+        "distance": 3112,
+        "category": "Museum"
+    }, {
+        "name": "Waterfront Museum",
+        "location": [
+            40.67527347784868, -74.01836103508666
+        ],
+        "address": "290 Conover St Brooklyn NY 11231",
+        "distance": 4298,
+        "category": "History Museum"
+    }, {
+        "name": "Museum of the Moving Image",
+        "location": [
+            40.756050537884335, -73.92398903531847
+        ],
+        "address": "3601 35th Ave Astoria NY 11106",
+        "distance": 8413,
+        "category": "Museum"
+    }, {
+        "name": "Museum of Ice Cream",
+        "location": [
+            40.723917, -73.997941
+        ],
+        "address": "558 Broadway New York NY 10012",
+        "distance": 1409,
+        "category": "Museum"
+    }, {
+        "name": "Museum of Street Art",
+        "location": [
+            40.72065438462033, -73.99359583854675
+        ],
+        "address": "189 Bowery New York NY 10002",
+        "distance": 1361,
+        "category": "Arts and Entertainment"
+    }, {
+        "name": "Fashion Institute Of Technology - Museum At Fit",
+        "location": [
+            40.74649449514786, -73.99393129855021
+        ],
+        "address": "227 W 27th St New York NY 10001",
+        "distance": 3879,
+        "category": "Museum"
+    }, {
+        "name": "Museum of Food and Drink",
+        "location": [
+            40.71875627777435, -73.94986598037544
+        ],
+        "address": "62 Bayard St Brooklyn NY 11222",
+        "distance": 4774,
+        "category": "Museum"
+    }, {
+        "name": "Museum of the American Gangster",
+        "location": [
+            40.72777425140347, -73.98573756703753
+        ],
+        "address": "80 Saint Marks Pl New York NY 10003",
+        "distance": 2383,
+        "category": "History Museum"
+    }, {
+        "name": "National September 11 Memorial Museum",
+        "location": [
+            40.7114673282201, -74.01274681091309
+        ],
+        "address": "180 Greenwich St New York NY 10007",
+        "distance": 587,
+        "category": "History Museum"
+    }, {
+        "name": "Children's Museum Of The Arts",
+        "location": [
+            40.72746742738934, -74.00804776645211
+        ],
+        "address": "103 Charlton St New York NY 10014",
+        "distance": 1639,
+        "category": "Art Museum"
+    }, {
+        "name": "Museum at Eldridge Street",
+        "location": [
+            40.714724, -73.993497
+        ],
+        "address": "12 Eldridge St New York NY 10002",
+        "distance": 1074,
+        "category": "History Museum"
+    }, {
+        "name": "Italian American Museum",
+        "location": [
+            40.71919065572268, -73.99737599769244
+        ],
+        "address": "155 Mulberry St New York NY 10013",
+        "distance": 1015,
+        "category": "History Museum"
+    }, {
+        "name": "Museum of Arts & Design (MAD)",
+        "location": [
+            40.767447224081266, -73.98196502425458
+        ],
+        "address": "2 Columbus Cir New York NY 10019",
+        "distance": 6400,
+        "category": "Art Museum"
+    }, {
+        "name": "Postal Museum",
+        "location": [
+            40.75130844116211, -73.9952621459961
+        ],
+        "address": "421 8th Ave New York NY 10001",
+        "distance": 4373,
+        "category": "History Museum"
+    }, {
+        "name": "The National Museum of the American Indian\u2013New York",
+        "location": [
+            40.7043035374255, -74.01375942059204
+        ],
+        "address": "1 Bowling Grn New York NY 10004",
+        "distance": 1148,
+        "category": "Museum"
+    }, {
+        "name": "New York City Fire Museum",
+        "location": [
+            40.72582735865202, -74.00686735650827
+        ],
+        "address": "278 Spring St New York NY 10013",
+        "distance": 1449,
+        "category": "History Museum"
+    }, {
+        "name": "Choco-Story New York, The Chocolate Museum and Experience",
+        "location": [
+            40.72795323329367, -74.00689774695809
+        ],
+        "address": "350 Hudson St New York NY 10014",
+        "distance": 1685,
+        "category": "Museum"
+    }, {
+        "name": "Dahesh Museum of Art",
+        "location": [
+            40.72491842811391, -74.00480184201173
+        ],
+        "address": "145 Avenue of the Americas New York NY 10013",
+        "distance": 1350,
+        "category": "Art Museum"
+    }
+]

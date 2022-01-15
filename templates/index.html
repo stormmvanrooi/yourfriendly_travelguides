@@ -1,10 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
   <title>Vacationing in New York</title>
-  
-  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+</style>  
+    
+  <!-- Bootstrap Links--> 
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+
   <!-- D3 library -->
   <script src="https://d3js.org/d3.v5.min.js"></script>
 
@@ -22,21 +35,108 @@
 
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'css/style.css') }}">
+  <!-- Needed because of fav icon errors-->
+  <link rel="shortcut icon" href="#">
+<!-- AniCollection.css library -->
+  <link rel="stylesheet" href="https://anijs.github.io/lib/anicollection/anicollection.css">
+  
 </head>
+
 <body>
+  <!-- Sidebar/menu -->
+  <nav class="w3-sidebar w3-red w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
+    <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
+    <div class="w3-container">
+    <h3 class="w3-padding-64"><b>Data Science<br>Bootcamp</b></h3>
+  </div>
+  <div class="w3-bar-block">
+    <a href="http://127.0.0.1:5000/api/hotels" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Hotels</a> 
+    <a href="http://127.0.0.1:5000/api/restuarants" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Restaurants</a> 
+    <a href="http://127.0.0.1:5000/api/museums" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Museums</a> 
+    <a href="http://127.0.0.1:5000/shopping" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Shopping</a> 
+    <a href="http://127.0.0.1:5000/api/groceries" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Groceries</a> 
+  </div>
+</nav>
 
-  <!-- The div that holds our map -->
- <div><h1>Your Friendly Tour Guides</h1></div>
-<div id="map-id"></div>
-<div id="plot-id"></div>
+<!-- Top menu on small screens -->
+<header class="w3-container w3-top w3-hide-large w3-red w3-xlarge w3-padding">
+  <a href="javascript:void(0)" class="w3-button w3-red w3-margin-right" onclick="w3_open()">☰</a>
+  <span>Your Friendly Travel Guides</span>
+</header>
 
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
 
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+
+  <!-- Header -->
+  <div class="w3-container" style="margin-top:80px" id="showcase">
+    <h1 class="w3-jumbo"><b>Your Friendly Travel Guides</b></h1>
+    <h1 class="w3-xxxlarge w3-text-red"><b>Restaurants, Hotels, and More in New York City</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+  </div>
+
+  <!-- The div that holds our dashboard -->
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <h3> Overview of Tourism in NYC</h3>
+      <iframe width="560" height="400" src="https://www.youtube.com/embed/MtCMtC50gwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+      <h3> Top Attractions in NYC with Ticket Prices</h3>
+      <table class="w3-table-all w3-hoverable" style="width: 660px; height: 400px">  
+        <tr>
+          <th>Attraction</th>
+          <th>Entry Price Adults</th>
+          <th>Entry Price Children</th>
+        </tr>
+        <tr>
+          <td>The Met Museum</td>
+          <td>$25</td>
+          <td>Free (children up to 12)</td>
+        </tr>
+        <tr>
+          <td>The Empire State Building</td>
+          <td>$38</td>
+          <td>$32</td>
+        </tr>
+        <tr>
+          <td>Radio City Music Hall</td>
+          <td>$30 </td>
+          <td>$26 (children up to 12)</td>
+        </tr>
+        <tr>
+          <td>The Statue of Liberty</td>
+          <td>$21.50 </td>
+          <td>$12 (children ages 4-12)</td>
+        </tr>
+        <tr>
+          <td>The Bronx Zoo</td>
+          <td>$39.95 </td>
+          <td>$29.95(children ages 3-12) </td>
+        </tr>
+        </table>
+    </div>
+    <div class="w3-half">
+      <h3> Resource Map </h3>
+      <div id="map-id" style="width: 560; height: 400px"></div><br>
+      <h3> Top 10 Closest Hotels to Manhattan</h3>
+      <div id="plot-id" style="width: 50%"></div><br> 
+      </div>
+
+      <script>
+        let respHotel = JSON.parse('{{ htmlHotel | tojson | safe }}')
+        let respRest = JSON.parse('{{ htmlRestaurant | tojson | safe }}')
+        let respMuseum = JSON.parse('{{ htmlMuseum | tojson | safe }}')
+        let respShop = JSON.parse('{{ htmlShopping | tojson | safe }}')
+        let respGroceries = JSON.parse('{{ htmlGroceries | tojson | safe }}')
+      </script>
   <!-- Our JavaScript file -->
-  <script>
-    let response = JSON.parse('{{ searchResults | tojson | safe}}')
-  </script>
   <script type="text/javascript" src="{{ url_for('static', filename= 'js/maps.js') }}"></script>
   <script type="text/javascript" src="{{ url_for('static', filename= 'js/app.js') }}"></script>
+
+  
 </body>
 
 </html>
+
+
