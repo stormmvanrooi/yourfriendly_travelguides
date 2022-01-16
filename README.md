@@ -11,7 +11,7 @@
 New York City is one the most well known global destinations for visitors drawn to its museums, entertainment, restaurants, Hotels and commerce. The city is also host to conventions and trade shows, and major athletic events such as the New York City Marathon and the U.S. Open.
 We are here to help. We will provide some information that will better help guide your upcoming NYC vacation.  
 
-Our mission is to create a dashboard for prospective vacationers who are interested in what the city of New York has to offer. We used the Foursquare API to scrape data in combination with leaflet and plotly to visualize in several ways what we think are important areas of interest which includes a: 
+Our mission is to create a dashboard for prospective vacationers who are interested in what the city of New York has to offer. We used the Foursquare API to scrape data in combination with leaflet and plotly to visualize in several ways what we think are important areas of interest.
 
 **Overview**
 
