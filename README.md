@@ -25,6 +25,7 @@ Our mission is to create a dashboard for prospective vacationers who are interes
 
 5. HTML and CSS used for final project display.
 
+**Final Product**
 ![NYC Dashboard](https://github.com/stormmvanrooi/yourfriendly_travelguides/blob/master/Screenshot%20of%20NYC%20Dashboard.png)
 
 
