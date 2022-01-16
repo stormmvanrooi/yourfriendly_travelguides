@@ -24,5 +24,7 @@ Our mission is to create a dashboard for prospective vacationers who are interes
 4. We used JavaScript to create a Leaflet map and bar graph of the top ten clsoes hotels to Manhattan (the most dense borough in NY).
 
 5. HTML and CSS used for final project display.
+
+
    
  
