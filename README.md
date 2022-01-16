@@ -12,10 +12,11 @@ We are here to help. We will provide some information that will better help guid
 
 Our mission is to create a dashboard for prospective vacationers who are interested in what the city of New York has to offer. We used the Foursquare API to scrape data in combination with leaflet and plotly to visualize in several ways what we think are important areas of interest which includes a: 
 
+**Overview**
 
 1. Researched the Foursquare API in order to look over data layout and API requirements.
 
-2.Created a Jupyter Notebook to collect the data response scraped from the API.
+2. Created a Jupyter Notebook to collect the data response scraped from the API.
 
 3. We Used Flask to pull data in from MongoDB, as well from static json files and wrote into HTML.
 
