@@ -6,7 +6,7 @@
 
 ![This is an image](https://images.unsplash.com/photo-1570304816841-906a17d7b067?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9yayUyMHNreWxpbmV8ZW58MHx8MHx8&w=1000&q=80)
 
-** Proposal: **
+**Proposal:**
 New York City is one the most well known global destinations for visitors drawn to its museums, entertainment, restaurants, Hotels and commerce. The city is also host to conventions and trade shows, and major athletic events such as the New York City Marathon and the U.S. Open.
 We are here to help. We will provide some information that will better help guide your upcoming NYC vacation.  
 
