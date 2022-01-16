@@ -14,19 +14,19 @@ museums_collection = db.museums_data
 groceries_collection = db.groceries_data
 shopping_collection = db.shopping_data
 
-with open("hotels_data.json") as fp:
+with open("data/hotels_data.json") as fp:
     hotels = json.load(fp)
 
-with open("restaurants_data.json") as fp:
+with open("data/restaurants_data.json") as fp:
     restaurants = json.load(fp)
 
-with open("museums_data.json") as fp:
+with open("data/museums_data.json") as fp:
     museums = json.load(fp)
 
-with open("shopping_data.json") as fp:
+with open("data/shopping_data.json") as fp:
     shopping = json.load(fp)
 
-with open("groceries_data.json") as fp:
+with open("data/groceries_data.json") as fp:
     groceries = json.load(fp)
 
 # ========================================
