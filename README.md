@@ -4,7 +4,7 @@
 
 ### Vacationing in New York
 
-![This is an image](https://images.unsplash.com/photo-1570304816841-906a17d7b067?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9yayUyMHNreWxpbmV8ZW58MHx8MHx8&w=1000&q=80)
+![NYC Skyline](https://images.unsplash.com/photo-1570304816841-906a17d7b067?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9yayUyMHNreWxpbmV8ZW58MHx8MHx8&w=1000&q=80)
 
 **Proposal**
 
@@ -24,6 +24,8 @@ Our mission is to create a dashboard for prospective vacationers who are interes
 4. We used JavaScript to create a Leaflet map and bar graph of the top ten clsoes hotels to Manhattan (the most dense borough in NY).
 
 5. HTML and CSS used for final project display.
+
+![NYC Dashboard](https://github.com/stormmvanrooi/yourfriendly_travelguides/blob/master/Screenshot%20of%20NYC%20Dashboard.png)
 
 
    
