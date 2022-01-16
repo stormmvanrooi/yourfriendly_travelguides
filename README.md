@@ -1,8 +1,8 @@
 # Your Friendly Travel Guides
 
-##### Team Members: Rudy Duvnjak, Prince Emenalo, Stormm Van Rooi
+##Team Members: Rudy Duvnjak, Prince Emenalo, Stormm Van Rooi
 
-Vacationing in New York
+##Vacationing in New York
 
 ![This is an image](https://images.unsplash.com/photo-1570304816841-906a17d7b067?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9yayUyMHNreWxpbmV8ZW58MHx8MHx8&w=1000&q=80)
 
